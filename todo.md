@@ -1,0 +1,3 @@
+- [ ] input less fps videos for less traffic
+- [ ] improve speed, turn angle 
+- [ ] Setup new laptop virtual env
